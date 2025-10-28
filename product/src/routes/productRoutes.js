@@ -10,4 +10,6 @@ router.post("/buy", isAuthenticated, productController.createOrder);
 router.get("/", isAuthenticated, productController.getProducts);
 router.get("/:orderId", isAuthenticated, productController.getOrderStatus); //code bổ sung (Câu 8)
 
+router.get("/:id", (req, res) => productController.getProductById(req, res));
+
 module.exports = router;
