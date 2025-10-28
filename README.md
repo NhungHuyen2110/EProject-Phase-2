@@ -44,7 +44,7 @@ Auth Service Product Service Order Service RabbitMQ
 (Port 3000) (Port 3001) (Port 3002) (Port 5672)
 
 ## 🧱 3. CẤU TRÚC THƯ MỤC DỰ ÁN
-EProject-Phase-2/
+**EProject-Phase-2/**
 │
 ├── auth/ # Dịch vụ xác thực người dùng
 ├── product/ # Dịch vụ quản lý sản phẩm
