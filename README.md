@@ -57,8 +57,7 @@ Auth Service Product Service Order Service RabbitMQ
 
 ## 🧩 4. CÁC BIẾN MÔI TRƯỜNG (.env)
 
-### 📁 `auth/.env`
-```env
+📁 auth/.env
 PORT=3000
 MONGO_URI=mongodb://mongo:27017/auth_service
 JWT_SECRET=supersecretkey
