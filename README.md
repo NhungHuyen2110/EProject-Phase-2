@@ -1,4 +1,4 @@
-# 🧠 EProject Phase 2 — Microservices System (FPT Polytechnic)
+# 🧠 EProject Phase
 
 > **Sinh viên:** Trần Thị Nhung Huyền  
 > **Môn học:** Lập Trình Hướng Dịch Vụ  
